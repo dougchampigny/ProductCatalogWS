@@ -1,6 +1,5 @@
 package com.pegaxchange.services;
 
-
 public class Product 
 {
 	private int id;

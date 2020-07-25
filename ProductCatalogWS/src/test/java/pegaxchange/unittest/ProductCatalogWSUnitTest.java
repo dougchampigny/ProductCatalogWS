@@ -13,6 +13,7 @@ import com.pegaxchange.services.ProductCatalogInterface;
 
 public class ProductCatalogWSUnitTest 
 {
+
 	@Test
 	public void ProductCatalogAPITest() 
 	{
